@@ -13,8 +13,8 @@ for i = 1:5
 end
 
 map = TargetOccupancySafety(map);
-map = flipud(map);
-occupancyTest = occupancyMap(map,res);
+% map = flipud(map);
+occupancyTest = occupancyMap(flipud(map),res);
 figure(1);
 show(occupancyTest)
 

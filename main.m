@@ -1,5 +1,5 @@
 start_pos = 2; % 1 or 2
-parking_space = 3; % 1 ~ 4
+parking_space = 1; % 1 ~ 3
 
 start_pos = Start(start_pos);
 map = InitializeMap(parking_space);
