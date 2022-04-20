@@ -7,6 +7,8 @@ Path planning: A* algorithm
 
 Path tracking: Pure pursuit
 
+![alt text](https://github.com/mych907/parking_sim/blob/main/parkingsim.gif?raw=true)
+
 This project requires CarSim license. A bicycle model based simulation (without CarSim) will be uploaded upon request.
 
 Import .cpar file from CarSim and "Send to Simulink".
